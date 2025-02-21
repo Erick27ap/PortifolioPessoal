@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Erick27ap/Erick27ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Olá, seja bem vindo ao meu perfil!
+Já me apresentando, sou o Erick, estou com 23 anos e atualmente resido na região de Presidente Prudente - SP.
+Profissional em Tecnologia da Informação(T.I), desenvolvedor FullStack.
+Estudante de Analise e Desenvolvimento de Software.
+
+Desde pequeno já mostrava interesse por tecnologia, curioso, estava sempre tentando descobrir e entender como as coisas funcionavam desmontando os aparelhos que não funcionavam mais em casa e outras coisas que buscava compreender. Esses comportamentos de quando criança foram o pivô para entra no mundo da tecnologia, em especial saber mais sobre hardware e manutenção, uma das áreas da tecnologia que tenho grande fascínio e apreço. Hoje tenho o intuito de finalizar minhas graduações em T.I e me tornando especialista em desenvolvimento de Inteligência Artificial.
+
